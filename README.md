@@ -1,5 +1,5 @@
 # Database_Basics_With_Java
-Example of connection to the database.
+Example of connection to the database...
 
 
 # Ex:
