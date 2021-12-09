@@ -1,4 +1,6 @@
 # Database_Basics_With_Java
+[![Visits Badge](https://badges.pufler.dev/visits/71460-4-F/Database_Basics_With_Java)](https://badges.pufler.dev)
+
 Example of connection to the database...
 
 
